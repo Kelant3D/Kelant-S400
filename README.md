@@ -26,7 +26,7 @@
  <li>Print volume: 192(L)x120(W)x200(H)</li>
 </ul>
 
-<h2>How to print</h2>
+<h2>How to print (video)</h2>
 <a href="https://www.youtube.com/watch?v=tZRK0-5ZPNM" target="_blank"><img src="https://img.youtube.com/vi/tZRK0-5ZPNM/maxresdefault.jpg" /></a>
 
 <h2>Pages</h2>
