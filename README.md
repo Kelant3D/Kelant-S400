@@ -29,5 +29,10 @@
 <h2>First installation</h2>
 <a href="https://www.youtube.com/watch?v=tZRK0-5ZPNM" target="_blank"><img src="https://img.youtube.com/vi/tZRK0-5ZPNM/maxresdefault.jpg" /></a>
 
+<h2>Pages<h2>
+  <ul>
+    <li><a href="https://github.com/Kelant3D/Kelant-S400/blob/master/docs/resin.md">Resins</a></li>
+  </ul>
+
 <h2>Where can I buy it?</h2>
 Visit official Aliexpress <a href="https://kelant.aliexpress.com/store/4503053" target="_blank">Kelant 3D store</a>
