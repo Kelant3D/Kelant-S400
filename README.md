@@ -34,6 +34,7 @@
     <li><a href="https://github.com/Kelant3D/Kelant-S400/blob/master/docs/unboxing.md">Unboxing</a></li>
     <li><a href="https://github.com/Kelant3D/Kelant-S400/blob/master/docs/resin.md">Resins</a></li>
     <li><a href="https://github.com/Kelant3D/Kelant-S400/blob/master/docs/comparing.md">Comparing with another resin printers</a></li>
+    <li><a href="https://github.com/Kelant3D/Kelant-S400/blob/master/docs/known-issues.md">Known printer issues</a></li>
   </ul>
 
 <h2>Where can I buy it?</h2>
