@@ -31,8 +31,9 @@
 
 <h2>Pages<h2>
   <ul>
-    <li><a href="">Unboxing</a></li>
+    <li><a href="https://github.com/Kelant3D/Kelant-S400/blob/master/docs/unboxing.md">Unboxing</a></li>
     <li><a href="https://github.com/Kelant3D/Kelant-S400/blob/master/docs/resin.md">Resins</a></li>
+    <li><a href="https://github.com/Kelant3D/Kelant-S400/blob/master/docs/comparing.md">Comparing with another resin printers</a></li>
   </ul>
 
 <h2>Where can I buy it?</h2>
