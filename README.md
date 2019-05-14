@@ -1,4 +1,4 @@
-<h1>KELANT 3D SLA Printer</h1>
+<h1>KELANT 3D SLA/DLP/LCD Printer</h1>
 
 <img src="https://github.com/Kelant3D/Kelant-S400/blob/master/web/kelant3d.jpg" />
 
