@@ -1,6 +1,5 @@
 <h1>KELANT 3D SLA/DLP/LCD Printer</h1>
 
-<h2>Specifications</h2>
 <table>
   <tr>
     <td>
