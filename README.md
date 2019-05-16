@@ -1,5 +1,9 @@
 <h1>KELANT 3D SLA/DLP/LCD Printer</h1>
 
+<table>
+  <tr><td>Cell 1</td><td>Cell 2</td></tr>
+  </table>
+
 <img src="https://github.com/Kelant3D/Kelant-S400/blob/master/web/kelant3d.jpg" />
 
 <h2>Specifications</h2>
