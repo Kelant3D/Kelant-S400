@@ -26,7 +26,7 @@
       <li>Print volume: 192(L)x120(W)x200(H)</li>
      </ul>
     </td>
-   <td><img src="https://github.com/Kelant3D/Kelant-S400/blob/master/web/kelant3d.jpg" /></td>
+   <td><img src="https://github.com/Kelant3D/Kelant-S400/blob/master/web/kelant3d.jpg" width="515" /></td>
   </tr>
   </table>
 
