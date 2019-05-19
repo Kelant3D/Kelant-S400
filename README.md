@@ -30,6 +30,9 @@
   </tr>
   </table>
 
+## How to assemble (animation)
+[Download video](https://github.com/Kelant3D/Kelant-S400/blob/master/web/video/s400-assemble.mp4)
+
 ## How to print (video)
 [![](https://img.youtube.com/vi/tZRK0-5ZPNM/maxresdefault.jpg)](https://www.youtube.com/watch?v=tZRK0-5ZPNM)
 
