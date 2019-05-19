@@ -31,15 +31,15 @@
   </table>
 
 ## How to print (video)
-<a href="https://www.youtube.com/watch?v=tZRK0-5ZPNM" target="_blank"><img src="https://img.youtube.com/vi/tZRK0-5ZPNM/maxresdefault.jpg" /></a>
+[![](https://img.youtube.com/vi/tZRK0-5ZPNM/maxresdefault.jpg)](https://www.youtube.com/watch?v=tZRK0-5ZPNM)
 
 ## Pages
-* <a href="https://www.facebook.com/groups/1014915198707429/">Facebook group</a>
-* <a href="https://github.com/Kelant3D/Kelant-S400/blob/master/docs/unboxing.md">Unboxing</a>
-* <a href="https://github.com/Kelant3D/Kelant-S400/blob/master/docs/resin.md">Resins</a>
-* <a href="https://github.com/Kelant3D/Kelant-S400/blob/master/docs/comparing.md">Comparing with another resin printers</a>
-* <a href="https://github.com/Kelant3D/Kelant-S400/blob/master/docs/known-issues.md">Known printer issues</a>
-* <a href="https://github.com/loneacoustic/kelants400">Chitubox settings</a>
+* [Facebook group](https://www.facebook.com/groups/1014915198707429/)
+* [Unboxing](https://github.com/Kelant3D/Kelant-S400/blob/master/docs/unboxing.md)
+* [Resins](https://github.com/Kelant3D/Kelant-S400/blob/master/docs/resin.md)
+* [Comparing with another resin printers](https://github.com/Kelant3D/Kelant-S400/blob/master/docs/comparing.md)
+* [Known printer issues](https://github.com/Kelant3D/Kelant-S400/blob/master/docs/known-issues.md)
+* [Chitubox settings by Alejandro Salinas](https://github.com/loneacoustic/kelants400)
 
 ## Where can I buy it?
-Visit official Aliexpress <a href="https://kelant.aliexpress.com/store/4503053" target="_blank">Kelant 3D store</a>
+Visit official Aliexpress [Kelant 3D store](https://kelant.aliexpress.com/store/4503053)
