@@ -10,7 +10,7 @@
 # Printer comparing
 |  | **Kelant S400** | **Anycubic Photon** | **Zortax Inkspire** | **Form2** |
 | ----------- | :-------------: | :-----------------: | :-----------------: | :-------: |
-| **Printer** | ![](https://github.com/Kelant3D/Kelant-S400/blob/master/web/kelant-compare.png)| ![](https://github.com/Kelant3D/Kelant-S400/blob/master/web/anycubic-compare.png) | ![](https://github.com/Kelant3D/Kelant-S400/blob/master/web/zortax-compare.png) | ![](https://github.com/Kelant3D/Kelant-S400/blob/master/web/form-compare.png) |
+| **Printer** | ![](https://github.com/Kelant3D/Kelant-S400/blob/master/web/compare/kelant-compare.png)| ![](https://github.com/Kelant3D/Kelant-S400/blob/master/web/compare/anycubic-compare.png) | ![](https://github.com/Kelant3D/Kelant-S400/blob/master/web/compare/zortax-compare.png) | ![](https://github.com/Kelant3D/Kelant-S400/blob/master/web/compare/form-compare.png) |
 | **Price** | $699 | $499 | $1,990 | $3,900 |
 | **Technology** | LCD-SLA | LCD-SLA | LCD-SLA | Laser SLA |
 | **Print volume** | 192x120x200mm | 115x65x155mm | 74x132x175mm | 145x145x175mm |
