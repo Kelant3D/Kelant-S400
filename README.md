@@ -1,6 +1,6 @@
 # KELANT 3D SLA/DLP/LCD Printer
 
-Specification | -
+Specification | Kelant S400
 -- | --
 **Control** <ul><li>OS: Kelant system</li><li>Slicer: Kelant or Chitubox</li><li>Printer control: 3,5" touch screen</li><li>Connection: USB, WiFi</li></ul> **Printing** <ul><li>Technique: LCD Shadow Masking</li><li>N Resolution: 0.075mm (2560x1600px)</li><li>Z Axis resolution: 12.5microns</li><li>Layer Thickness: 35 ~ 100um</li><li>Printing speed: 30mm/h</li><li>Light source: UV LED (405nm)</li><li>Rated power: 144W</li></ul> **Psychical parameter** <ul><li>Printer size: 420x350x480mm</li><li>Print volume: 192(L)x120(W)x200(H)</li></ul>  | ![](https://github.com/Kelant3D/Kelant-S400/blob/master/web/kelant3d.jpg)
 
