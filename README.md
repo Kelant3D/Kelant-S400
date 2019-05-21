@@ -1,33 +1,8 @@
 # KELANT 3D SLA/DLP/LCD Printer
-<table>
-  <tr>
-    <td>
-     <u><b>Control</b></u>
-     <ul>
-      <li>OS: Kelant system</li>
-      <li>Slicer: Kelant or Chitubox</li>
-      <li>Printer control: 3,5" touch screen</li>
-      <li>Connection: USB, WiFi</li>
-     </ul>
-     <u><b>Printing</b></u>
-     <ul>
-      <li>Technique: LCD Shadow Masking</li>
-      <li>N Resolution: 0.075mm (2560x1600px)</li>
-      <li>Z Axis resolution: 12.5microns</li>
-      <li>Layer Thickness: 35 ~ 100um</li>
-      <li>Printing speed: 30mm/h</li>
-      <li>Light source: UV LED (405nm)</li>
-      <li>Rated power: 144W</li>
-     </ul>
-     <u><b>Psychical parameter</u></b>
-     <ul>
-      <li>Printer size: 420x350x480mm</li>
-      <li>Print volume: 192(L)x120(W)x200(H)</li>
-     </ul>
-    </td>
-   <td><img src="https://github.com/Kelant3D/Kelant-S400/blob/master/web/kelant3d.jpg" width="515" /></td>
-  </tr>
-  </table>
+
+Specification | -
+-- | --
+**Control** <ul><li>OS: Kelant system</li><li>Slicer: Kelant or Chitubox</li><li>Printer control: 3,5" touch screen</li><li>Connection: USB, WiFi</li></ul> **Printing** <ul><li>Technique: LCD Shadow Masking</li><li>N Resolution: 0.075mm (2560x1600px)</li><li>Z Axis resolution: 12.5microns</li><li>Layer Thickness: 35 ~ 100um</li><li>Printing speed: 30mm/h</li><li>Light source: UV LED (405nm)</li><li>Rated power: 144W</li></ul> **Psychical parameter** <ul><li>Printer size: 420x350x480mm</li><li>Print volume: 192(L)x120(W)x200(H)</li></ul>  | ![](https://github.com/Kelant3D/Kelant-S400/blob/master/web/kelant3d.jpg)
 
 ## How to assemble (animation)
 [Download video](https://github.com/Kelant3D/Kelant-S400/blob/master/web/video/s400-assemble.mp4)
