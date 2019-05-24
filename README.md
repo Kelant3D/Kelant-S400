@@ -10,11 +10,23 @@ Specification | Kelant S400
 ## How to print (video)
 [![](https://img.youtube.com/vi/tZRK0-5ZPNM/maxresdefault.jpg)](https://www.youtube.com/watch?v=tZRK0-5ZPNM)
 
+## How to update firmware
+**!IS NOT NECESSARILY TO UPDATE FIRMWARE IF YOU HAVEN'T ANY ISSUE WITH PRINTER!**
+* Download firmare below
+* Unzip to root on usb stick
+* Turn off printer
+* Insert usb
+* Turn on printer
+
+You must see small popup window with **initialization complete [OK]** output
+
+[Download firmware 5.24.2019](https://github.com/Kelant3D/Kelant-S400/blob/master/web/firmwares/Kelant_S400_Firmware_5.24.2019.zip)
+
 ## Pages
 * [Kelant S400 support page (Slicer, Firmware, ~~Manual~~, Test model)](http://www.kelandi.cn/d200zl)
 * [Facebook group](https://www.facebook.com/groups/1014915198707429/)
 * [Unboxing](https://github.com/Kelant3D/Kelant-S400/blob/master/docs/unboxing.md)
-* [Kelant S400 guide](https://github.com/Kelant3D/Kelant-S400/blob/master/web/manuals/Kelant-S400-Guide.pdf)
+* [Kelant S400 Manual EN](https://github.com/Kelant3D/Kelant-S400/blob/master/web/manuals/Kelant-Combat-S400-Manual.pdf)
 * [Resins](https://github.com/Kelant3D/Kelant-S400/blob/master/docs/resin.md)
 * [Comparing with another resin printers](https://github.com/Kelant3D/Kelant-S400/blob/master/docs/comparing.md)
 * [Known printer issues](https://github.com/Kelant3D/Kelant-S400/blob/master/docs/known-issues.md)
