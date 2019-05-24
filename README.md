@@ -17,8 +17,7 @@ Specification | Kelant S400
 * Turn printer OFF
 * Insert usb
 * Turn printer ON
-
-You must see small popup window with **initialization complete [OK]** output
+* You should see small popup window with **initialization complete [OK]** output
 
 [Download firmware 5.24.2019](https://github.com/Kelant3D/Kelant-S400/blob/master/web/firmwares/Kelant_S400_Firmware_5.24.2019.zip)
 
