@@ -12,11 +12,11 @@ Specification | Kelant S400
 
 ## How to update firmware
 **!IS NOT NECESSARILY TO UPDATE FIRMWARE IF YOU HAVEN'T ANY ISSUE WITH PRINTER!**
-* Download firmare below
-* Unzip to root on usb stick
-* Turn off printer
+* Download firmware below
+* Unzip to root on usb stick (with folder)
+* Turn printer OFF
 * Insert usb
-* Turn on printer
+* Turn printer ON
 
 You must see small popup window with **initialization complete [OK]** output
 
