@@ -19,7 +19,7 @@ Specification | Kelant S400
 * Turn printer ON
 * You should see small popup window with **initialization complete [OK]** output
 
-[Download newest firmware Kelant_S400_Firmware_DATE.zip](https://github.com/Kelant3D/Kelant-S400/blob/master/web/firmwares/)
+[Download newest firmware Kelant_S400_Firmware_DATE_MONTH_YEAR.zip](https://github.com/Kelant3D/Kelant-S400/blob/master/web/firmwares/)
 
 ## Pages
 * [Ofiicial Kelant S400 support page (Slicer, Firmware, ~~Manual~~, Test model)](http://www.kelandi.cn/d200zl)
