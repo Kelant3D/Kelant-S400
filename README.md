@@ -14,9 +14,9 @@ Specification | Kelant S400
 **!IS NOT NECESSARILY TO UPDATE FIRMWARE IF YOU HAVEN'T ANY ISSUE WITH PRINTER!**
 * [Download newest firmware Kelant_S400_Firmware_DATE_MONTH_YEAR.zip](https://github.com/Kelant3D/Kelant-S400/blob/master/web/firmwares/)
 * Unzip to root on usb stick (with folder)
-* Turn printer OFF
-* Insert usb
-* Turn printer ON
+* Insert usb with firmware
+* Browse U disk/sda1/folder with firmware
+* Tap on Print
 * You should see small popup window with **initialization complete [OK]** output
 
 ## Pages
