@@ -1,6 +1,6 @@
 # Known issues
 
 * **Platform wobbling**
-  * Maybe future upgrade?!?
+  * New platform upgrade. Can be purchase separately on [Aliexpress store](https://www.aliexpress.com/store/product/Kelant-3D-Printer-Platform-3d-printers-Build-Plated-Surface-Metal-Plate-220x160x10mmfor-Orbeat-S400-3D-printer/4503053_33004871064.html)
 * **Dark spots on LCD**
-  * Will be updated by manufacturer a send it for free
+  * Will be updated by manufacturer. 
