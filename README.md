@@ -22,7 +22,7 @@ Specification | Kelant S400
 * [Youtube video](https://www.youtube.com/watch?v=Zm_BnBuTmLU)
 
 ## Hot to restore image
-* [Video - need to be member of Facebook group](https://www.facebook.com/groups/KelantOfficial/permalink/1135965576602390/)
+* [Video - You must be member of Facebook group](https://www.facebook.com/groups/KelantOfficial/permalink/1135965576602390/)
 
 ## Pages
 * [Ofiicial Kelant S400 support page (Slicer, Firmware, Restore image Manual, Test models)](http://www.kelandi.cn/s400zl)
