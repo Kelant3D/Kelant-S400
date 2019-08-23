@@ -20,15 +20,15 @@ Specification | Kelant S400
 * You should see small popup window with **initialization complete [OK]** output
 
 ## Pages
-* [Ofiicial Kelant S400 support page (Slicer, Firmware, ~~Manual~~, Test model)](http://www.kelandi.cn/d200zl)
+* [Ofiicial Kelant S400 support page (Slicer, Firmware, ~~Manual~~, Test model)](http://www.kelandi.cn/s400zl)
 * [Facebook group](https://www.facebook.com/groups/1014915198707429/)
 * [Unboxing](https://github.com/Kelant3D/Kelant-S400/blob/master/docs/unboxing.md)
 * [Kelant S400 Manual EN](https://github.com/Kelant3D/Kelant-S400/blob/master/web/manuals/Kelant-Combat-S400-Manual.pdf)
 * [Resins](https://github.com/Kelant3D/Kelant-S400/blob/master/docs/resin.md)
 * [Comparing with another resin printers](https://github.com/Kelant3D/Kelant-S400/blob/master/docs/comparing.md)
 * [Known printer issues](https://github.com/Kelant3D/Kelant-S400/blob/master/docs/known-issues.md)
-* [Kelant S400 guide by Alejandro Salinas](https://docs.google.com/document/d/1pJaiBGf0VAxpfHv9hs0FMkd4qZY4gownWp8rYqPDnRU/)
-* [Chitubox settings by Alejandro Salinas](https://github.com/loneacoustic/kelants400)
+* [Kelant S400 guide by Alejandro Salinas](https://loneacoustic.wixsite.com/kelant/kelant-s400)
+* [Chitubox settings for Anycubic resins by Alejandro Salinas](https://github.com/Kelant3D/Kelant-S400/blob/master/web/chitubox/Kelant_S400_All.cfg)
 
 ## Where can I buy it?
 Visit official Aliexpress [Kelant 3D store](https://kelant.aliexpress.com/store/4503053)
