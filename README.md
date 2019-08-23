@@ -12,15 +12,20 @@ Specification | Kelant S400
 
 ## How to update firmware
 **!IS NOT NECESSARILY TO UPDATE FIRMWARE IF YOU HAVEN'T ANY ISSUE WITH PRINTER!**
-* [Download newest firmware Kelant_S400_Firmware_DATE_MONTH_YEAR.zip](https://github.com/Kelant3D/Kelant-S400/blob/master/web/firmwares/)
+* [Download newest firmware Kelant_S400](http://www.kelandi.cn/s400zl)
 * Unzip to root on usb stick (with folder)
 * Insert usb with firmware
 * Browse U disk/sda1/folder with firmware
 * Tap on Print
 * You should see small popup window with **initialization complete [OK]** output
 
+* [Youtube video](https://www.youtube.com/watch?v=Zm_BnBuTmLU)
+
+## Hot to restore image
+* [Video - need to be member of Facebook group](https://www.facebook.com/groups/KelantOfficial/permalink/1135965576602390/)
+
 ## Pages
-* [Ofiicial Kelant S400 support page (Slicer, Firmware, ~~Manual~~, Test model)](http://www.kelandi.cn/s400zl)
+* [Ofiicial Kelant S400 support page (Slicer, Firmware, Restore image Manual, Test models)](http://www.kelandi.cn/s400zl)
 * [Facebook group](https://www.facebook.com/groups/1014915198707429/)
 * [Unboxing](https://github.com/Kelant3D/Kelant-S400/blob/master/docs/unboxing.md)
 * [Kelant S400 Manual EN](https://github.com/Kelant3D/Kelant-S400/blob/master/web/manuals/Kelant-Combat-S400-Manual.pdf)
